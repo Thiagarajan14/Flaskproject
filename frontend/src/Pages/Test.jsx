@@ -89,6 +89,7 @@ export const Test = () => {
         <thead className="thead-dark">
           <th scope="col">Id</th>
           <th scope="col">Days</th>
+
           <th scope="col">Year</th>
           <th scope="col" colSpan="2">
             Leave Type
